@@ -4,9 +4,8 @@ Welcome to the Retail Sales and Customer Demographics Project. This project will
 ## Background
 The Retail Sales and Customer Demographics Dataset is a synthetic dataset designed to emulate a dynamic retail environment, offering an excellent platform for honing data analysis skills through exploratory data analysis (EDA). This dataset focuses on retail sales and customer characteristics, providing opportunities to uncover patterns, derive insights, and better understand customer behavior.
 ## Quick Link
-- Data source: 
-- Data Visualization: 
-- Recommendation: 
+- Data source: [retail-sales-dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset) 
+- Data Visualization: [Visualizations](Visualizations.md)
 ## Business Task
 To uncover actionable insights that retailers could use to enhance their strategies and customer experiences.
 ## Analysis Questions
@@ -25,5 +24,5 @@ There is no null values in any column and dataset is already clean.
 ### Data Cleaning
 I make new column (Age group) from Age column. I made conditional column in Power BI as follow: Young Adult (18-25), Adult (26-35), Old Adult (36-50) and Old (over 50).
 ### Analyze and Share
-I use Power BI for data visualization. 
+I use Power BI for data visualization. [Visualizations](Visualizations.md)
 
